@@ -145,6 +145,7 @@ input, select, textarea {
 		font-weight: 300;
 		font-size: 1rem;
 		line-height: 1.65;
+    box-shadow: 10px 5px 5px rgb(17 171 176);
 	}
 
 	a {
@@ -184,7 +185,7 @@ input, select, textarea {
 	}
 
 		h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
-			color: inherit;
+			color: rgba(17, 171, 176, 69);
 			text-decoration: none;
 		}
 
@@ -1140,9 +1141,12 @@ input, select, textarea {
 			-ms-transition-delay: 0.75s;
 			transition-delay: 0.75s;
 			background-image: linear-gradient(to top, rgba(19, 21, 25, 0.5), rgba(19, 21, 25, 0.5)), url("../../images/overlay.png");
-			background-size: auto, 256px 256px;
-			background-position: center, center;
-			background-repeat: no-repeat, repeat;
+			background-size: auto,
+ 256px 256px;
+			background-position: center,
+ center;
+			background-repeat: no-repeat,
+ repeat;
 			z-index: 2;
 		}
 
@@ -1363,6 +1367,7 @@ input, select, textarea {
 					letter-spacing: 0.2rem;
 					font-size: 0.8rem;
 					border-bottom: 0;
+          box-shadow: 10px 5px 5px rgb(17 171 176);
 				}
 
 					#header nav ul li a:hover {
