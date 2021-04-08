@@ -1,8 +1,8 @@
 # Von Arzu Freelancing Services Overview
 
-##About Von Arzu
+About Von Arzu
 
-A Data Science professional with a Master's degree concentrating in Data Science and Interaction Design (UX Design). A coding Bootcamp graduate with freelance projects. Providing services in Tech that change according to availability.
+A Data Science professional with a Master's degree concentrating in Data Science and Interaction Design (UX Design). A softwre engineering immersive coding Bootcamp graduate with freelance projects. Providing services in Tech that change according to availability.
 
 
 ## Team Expectations
