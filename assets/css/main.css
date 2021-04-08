@@ -145,7 +145,7 @@ input, select, textarea {
 		font-weight: 300;
 		font-size: 1rem;
 		line-height: 1.65;
-    box-shadow: 10px 5px 5px rgba(17, 171, 176, 69)
+    box-shadow: 10px 5px 5px rgba(17, 171, 176, 69);
 	}
 
 	a {
@@ -153,7 +153,7 @@ input, select, textarea {
 		-webkit-transition: color 0.2s ease-in-out, background-color 0.2s ease-in-out, border-bottom-color 0.2s ease-in-out;
 		-ms-transition: color 0.2s ease-in-out, background-color 0.2s ease-in-out, border-bottom-color 0.2s ease-in-out;
 		transition: color 0.2s ease-in-out, background-color 0.2s ease-in-out, border-bottom-color 0.2s ease-in-out;
-		border-bottom: dotted 1px rgba(255, 255, 255, 0.5);
+		border-bottom: dotted 1px rgba(17, 171, 176, 69);
 		text-decoration: none;
 		color: inherit;
 	}
@@ -1367,7 +1367,9 @@ input, select, textarea {
 					letter-spacing: 0.2rem;
 					font-size: 0.8rem;
 					border-bottom: 0;
-          box-shadow: 10px 5px 5px rgba(17, 171, 176, 69)				}
+        box-shadow: 10px 5px 5px rgba(17, 171, 176, 69)				
+        }
+
 
 					#header nav ul li a:hover {
 						background-color: rgba(17, 171, 176, 69);
