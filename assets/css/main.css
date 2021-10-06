@@ -145,9 +145,6 @@ input, select, textarea {
 		font-weight: 300;
 		font-size: 1rem;
 		line-height: 1.65;
-    border: 2px solid rgb(17 171 176);
-    box-shadow: 3px 1px 11px rgba(17, 171, 176, 69);
-  
   }
 
     .homeButt{
@@ -164,6 +161,7 @@ input, select, textarea {
 		border-bottom: dotted 1px rgba(17, 171, 176, 69);
 		text-decoration: none;
 		color: black;
+
 }
 
 		a:hover {
@@ -1375,7 +1373,7 @@ input, select, textarea {
 					letter-spacing: 0.2rem;
 					font-size: 0.8rem;
 					border-bottom: 0;
-        box-shadow: 10px 5px 5px rgba(17, 171, 176, 69)				
+          box-shadow: 2px 0px 11px rgba(17, 171, 176, 69);
         }
 
 
