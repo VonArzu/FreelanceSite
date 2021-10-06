@@ -1369,7 +1369,7 @@ input, select, textarea {
 					border-bottom: 0;
           box-shadow: 2px 0px 11px rgba(17, 171, 176, 69);
         }
-        .homeButt{
+       #header .homeButt{
           display: flex;
           align-items: center;
           background-color: #ffffff;
