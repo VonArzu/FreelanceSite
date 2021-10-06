@@ -145,9 +145,17 @@ input, select, textarea {
 		font-weight: 300;
 		font-size: 1rem;
 		line-height: 1.65;
-    box-shadow: 10px 5px 5px rgba(17, 171, 176, 69);
-	}
+    border: 2px solid rgb(17 171 176);
+    box-shadow: 3px 1px 11px rgba(17, 171, 176, 69);
 
+    }
+
+    .homeButt{
+      display: flex;
+      align-items: center;
+      background-color: #ffffff;
+
+    }
 	a {
 		-moz-transition: color 0.2s ease-in-out, background-color 0.2s ease-in-out, border-bottom-color 0.2s ease-in-out;
 		-webkit-transition: color 0.2s ease-in-out, background-color 0.2s ease-in-out, border-bottom-color 0.2s ease-in-out;
@@ -155,8 +163,8 @@ input, select, textarea {
 		transition: color 0.2s ease-in-out, background-color 0.2s ease-in-out, border-bottom-color 0.2s ease-in-out;
 		border-bottom: dotted 1px rgba(17, 171, 176, 69);
 		text-decoration: none;
-		color: inherit;
-	}
+		color: black;
+}
 
 		a:hover {
 			border-bottom-color: transparent;
