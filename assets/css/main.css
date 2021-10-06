@@ -154,7 +154,7 @@ input, select, textarea {
 		transition: color 0.2s ease-in-out, background-color 0.2s ease-in-out, border-bottom-color 0.2s ease-in-out;
 		border-bottom: dotted 1px rgba(17, 171, 176, 69);
 		text-decoration: none;
-		color: black;
+		color: rgba(17, 171, 176, 69);
 
 }
 
@@ -1376,9 +1376,11 @@ input, select, textarea {
           background-color: #ffffff;
     
         }
+    
 
 					#header nav ul li a:hover {
 						background-color: rgba(17, 171, 176, 69);
+            opacity: 0.3;
 					}
 
 					#header nav ul li a:active {
