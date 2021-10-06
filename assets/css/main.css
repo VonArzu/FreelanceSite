@@ -1030,6 +1030,7 @@ input, select, textarea {
 		text-decoration: none;
 		text-transform: uppercase;
 		white-space: nowrap;
+    box-shadow: -2px 1px 11px rgba(17, 171, 176, 69);
 	}
 
 		input[type="submit"]:hover,
@@ -1367,7 +1368,7 @@ input, select, textarea {
 					letter-spacing: 0.2rem;
 					font-size: 0.8rem;
 					border-bottom: 0;
-          box-shadow: 2px 0px 11px rgba(17, 171, 176, 69);
+        
         }
        #header .homeButt{
           display: flex;
