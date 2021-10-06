@@ -147,12 +147,6 @@ input, select, textarea {
 		line-height: 1.65;
   }
 
-    .homeButt{
-      display: flex;
-      align-items: center;
-      background-color: #ffffff;
-
-    }
 	a {
 		-moz-transition: color 0.2s ease-in-out, background-color 0.2s ease-in-out, border-bottom-color 0.2s ease-in-out;
 		-webkit-transition: color 0.2s ease-in-out, background-color 0.2s ease-in-out, border-bottom-color 0.2s ease-in-out;
@@ -1375,7 +1369,12 @@ input, select, textarea {
 					border-bottom: 0;
           box-shadow: 2px 0px 11px rgba(17, 171, 176, 69);
         }
-
+        .homeButt{
+          display: flex;
+          align-items: center;
+          background-color: #ffffff;
+    
+        }
 
 					#header nav ul li a:hover {
 						background-color: rgba(17, 171, 176, 69);
