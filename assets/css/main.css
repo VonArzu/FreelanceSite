@@ -154,7 +154,7 @@ input, select, textarea {
 		transition: color 0.2s ease-in-out, background-color 0.2s ease-in-out, border-bottom-color 0.2s ease-in-out;
 		border-bottom: dotted 1px rgba(17, 171, 176, 69);
 		text-decoration: none;
-		color: rgba(17, 171, 176, 69);
+		color: rgba(18, 75, 75, 69);
 
 }
 
